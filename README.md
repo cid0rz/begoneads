@@ -23,20 +23,12 @@ See the cli working on asciinema:
 
 ## Installation instructions
 
-### From PyPI
-
-To install BeGoneAds from PyPI use the following command:
-
-```shell
-pip install begoneads
-```
-
 ### From source
 
 Clone this repository:
 
 ```shell
-git clone https://github.com/anned20/begoneads.git
+git clone https://github.com/cid0rz/begoneads.git
 ```
 
 Install the program:
@@ -68,6 +60,13 @@ Commands:
   install    Install or update BeGoneAds
   uninstall  Uninstall BeGoneAds
 ```
+
+You can also launch the GUI with python:
+
+```shell
+sudo python <path_to_begoneadsGUI.py>
+```
+
 
 ## Usage
 
